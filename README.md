@@ -11,4 +11,4 @@ These samples were created to demonstrate skills for AI Quality Analyst / Rater 
 ---
 **By: Abimbola Banwo**  
 Quality Analyst | Lagos, Nigeria  
-Email: bimbanwo@nafrisec-consult.online
+Email: abimbolabanwo@yahoo.co.uk 
