@@ -24,4 +24,6 @@ Sample evaluations of AI responses for accuracy, clarity, and helpfulness. Used 
 - **Score**: 4/10
 
 ### **Final Verdict**
+
+ **By: Abimbola Banwo** | Lagos, Nigeria | abimbolabanwo@yahoo.co.uk
 **Response A is preferred.** It is accurate, clear, and tailored to the audience. Response B is too technical and not helpful for a child.
