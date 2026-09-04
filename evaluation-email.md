@@ -25,5 +25,8 @@ Abimbola"
 - **Helpfulness**: Low. Does not ask if new time works.
 - **Score**: 4/10
 
-### **Final Verdict**
+### **Final Verdict** 
+
+   ---
+   **By: Abimbola Banwo** | Lagos, Nigeria | abimbolabanwo@yahoo.co.uk
 **Response A is preferred.** It is polite, clear, and professional. Response B lacks tone and details needed for client communication.
